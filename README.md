@@ -97,7 +97,7 @@ A: Yes! Pull requests are welcome. Please see [Contributing](#-contributing) bel
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/AshmitDas19/JPaint/LICENSE).
+This project is licensed under the [MIT License](https://github.com/AshmitDas19/JPaint/blob/LICENSE).
 
 ---
 
