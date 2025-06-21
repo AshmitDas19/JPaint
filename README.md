@@ -63,15 +63,16 @@
 ```
 JPaint/
 ├── .idea/
-├──── .gitignore
-├──── misc.xml
-├──── modules.xml
+│   ├── misc.xml
+│   └── modules.xml
 ├── src/
-├──── App.java
-├──── Canvas.java
-├──── ColorPoint.java
-├──── JPaint.java
-└── README.md             # You're reading it!
+│   ├── App.java
+│   ├── Canvas.java
+│   ├── ColorPoint.java
+│   └── JPaint.java
+├── .gitignore
+├── JPaint.iml
+└── README.md
 ```
 
 ---
