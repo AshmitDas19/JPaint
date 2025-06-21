@@ -63,6 +63,7 @@
 ```
 JPaint/
 ├── .idea/
+│   ├── .gitignore
 │   ├── misc.xml
 │   └── modules.xml
 ├── src/
@@ -96,7 +97,7 @@ A: Yes! Pull requests are welcome. Please see [Contributing](#-contributing) bel
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/AshmitDas19/JPaint/LICENSE).
 
 ---
 
