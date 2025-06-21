@@ -54,7 +54,7 @@
 
 - 🖱️ Use your mouse to draw on the canvas  
 - 🎨 Click on the color picker to change brush color  
-- 🗑️ Use the **Clear** button to reset the canvas
+- 🗑️ Use the **Reset** button to clear the canvas
 
 ---
 
@@ -73,6 +73,7 @@ JPaint/
 │   └── JPaint.java
 ├── .gitignore
 ├── JPaint.iml
+├── LICENSE
 └── README.md
 ```
 
@@ -97,7 +98,7 @@ A: Yes! Pull requests are welcome. Please see [Contributing](#-contributing) bel
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/AshmitDas19/JPaint/blob/LICENSE).
+This project is licensed under the [MIT License](https://github.com/AshmitDas19/JPaint/blob/53e29973b5ad62a1a907a4e80db5a51752e2fee1/LICENSE).
 
 ---
 
@@ -105,4 +106,4 @@ This project is licensed under the [MIT License](https://github.com/AshmitDas19/
 
 Feel free to reach out or open an issue if you face any problems.
 
-> Made with ❤️ in Java
+> Made With ❤️ in Java
