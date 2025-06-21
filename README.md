@@ -15,9 +15,10 @@
 ---
 
 ## 📸 Preview
-
-> *(Optional – add a screenshot or GIF here to showcase the UI)*  
-> ![JPaint Preview](path/to/screenshot.png)
+ 
+> ![JPaint Screenshot 1](ss1.png)
+> ![JPaint Screenshot 2](ss2.png)
+> ![JPaint Screenshot 3](ss3.png)
 
 ---
 
