@@ -34,7 +34,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/JPaint.git
+   git clone https://github.com/AshmitDas19/JPaint.git
    cd JPaint
    ```
 
@@ -54,9 +54,7 @@
 
 - 🖱️ Use your mouse to draw on the canvas  
 - 🎨 Click on the color picker to change brush color  
-- 🗑️ Use the **Clear** button (if added) to reset the canvas  
-
-> Tip: You can modify the default canvas size or add new features like shape tools, saving images, etc.
+- 🗑️ Use the **Clear** button to reset the canvas
 
 ---
 
@@ -64,17 +62,21 @@
 
 ```
 JPaint/
-├── JPaint.java           # Main application file
-├── assets/               # (Optional) Images, icons, etc.
+├── .idea/
+├──── .gitignore
+├──── misc.xml
+├──── modules.xml
+├── src/
+├──── App.java
+├──── Canvas.java
+├──── ColorPoint.java
+├──── JPaint.java
 └── README.md             # You're reading it!
 ```
 
 ---
 
 ## 🙋 FAQ
-
-**Q: Can I use this in my own projects?**  
-A: Absolutely! JPaint is open source under the MIT license.
 
 **Q: Can I contribute new features?**  
 A: Yes! Pull requests are welcome. Please see [Contributing](#-contributing) below.
