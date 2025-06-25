@@ -36,16 +36,17 @@
    ```bash
    git clone https://github.com/AshmitDas19/JPaint.git
    cd JPaint
+   cd src
    ```
 
 2. **Compile the code:**
    ```bash
-   javac JPaint.java
+   javac App.java
    ```
 
 3. **Run the application:**
    ```bash
-   java JPaint
+   java App
    ```
 
 ---
