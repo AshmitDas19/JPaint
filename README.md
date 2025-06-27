@@ -16,12 +16,10 @@
 
 ## 📸 Screenshots
 
-> *(Replace the image paths with actual screenshot files once uploaded to the repo)*
-
-![JPaint Main Window](screenshots/main_window.png)  
+![JPaint Main Window](ss1.png)  
 *Main interface with drawing canvas*
 
-![Color Selection](screenshots/color_picker.png)  
+![Color Selection](ss2.png)  
 *Customizable color palette in action*
 
 ---
@@ -40,17 +38,17 @@
 1. **Clone the repository**
    ```bash
    git clone https://github.com/AshmitDas19/JPaint.git
-   cd JPaint
+   cd JPaint/src
    ```
 
 2. **Compile the project**
    ```bash
-   javac -cp src src/*.java
+   javac App.java
    ```
 
 3. **Run the application**
    ```bash
-   java -cp src App
+   java App
    ```
 
 ---
@@ -63,9 +61,6 @@ JPaint/
 │   ├── .gitignore
 │   ├── misc.xml
 │   ├── modules.xml
-│   └── vcs.xml
-├── lib/
-│   └── JTattoo-1.6.13.jar
 ├── src/
 │   ├── App.java
 │   ├── Canvas.java
@@ -80,17 +75,8 @@ JPaint/
 
 ## ❓ FAQ
 
-**Q: Does JPaint support drawing with different colors?**  
-A: Yes! You can easily switch brush colors from the palette.
-
-**Q: Can I clear the canvas and start again?**  
-A: Absolutely! Just click the clear button to reset your workspace.
-
 **Q: Is JPaint beginner-friendly?**  
 A: Yes, it's designed to be simple, intuitive, and easy to use for everyone.
-
-**Q: Can I extend the app with more features?**  
-A: Definitely! The codebase is clean and easy to modify for custom features.
 
 **Q: Will it work on all operating systems?**  
 A: Yes — as long as Java is installed, JPaint will run on Windows, macOS, and Linux.
